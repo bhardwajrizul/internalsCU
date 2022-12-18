@@ -1,4 +1,5 @@
 // https://github.com/bhardwajrizul/internalsCU
+clear();
 
 function main(){
     console.log("\n\n\n");

@@ -1,3 +1,5 @@
+// https://github.com/bhardwajrizul/internalsCU
+
 function main(){
     console.log("\n\n\n");
     let noOfSubjects = document.getElementById("accordion").childElementCount / 2;
@@ -168,5 +170,8 @@ function getPracticalWorksheetInfo(subElement) {
         obtained : (marksObtd / maxMarks) * finalWeightage
     };
 }
+
+
+// https://github.com/bhardwajrizul/internalsCU
 
 main();
